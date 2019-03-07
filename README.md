@@ -1,5 +1,8 @@
 markdown-cv
+https://benli0822.github.io/markdown-cv/
 ===========
+
+Forked the repo from [project page](http://elipapa.github.io/markdown-cv)
 
 A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
 
