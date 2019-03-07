@@ -3,15 +3,15 @@ layout: cv
 title: Benli Jin's CV
 ---
 # Benli Jin
-Java Developer, Full Stack Developer, Agile Project Manager.
+Java Developer, Full Stack Developer, Agile Player, Project Manager.
 
 <div id="webaddress">
 <a href="benli0822@gmail.com">benli0822@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/benlijin/">My LinkedIn page</a>
 </div>
 
 
-## Currently
+<!-- ## Currently
 
 Standing on the shoulders of giants
 
@@ -22,26 +22,35 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013 - 2015`
+__[Lille 1 University of Science and Technology](https://en.wikipedia.org/wiki/Lille_University_of_Science_and_Technology)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master E-Services (Computer Science)
+- BAC + 5
+  
+`2011 - 2012`
+__[Lille 1 University of Science and Technology](https://en.wikipedia.org/wiki/Lille_University_of_Science_and_Technology)__
 
-- Sizar
+- Bachelor Computer Science.
+- BAC + 3.
+- Motivated by programming, changed major to Computer Science during the exchange selection.
+- Education given in French.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2009 - 2014`
+__[Hohai University](https://en.wikipedia.org/wiki/Hohai_University)__
 
-- Fellow
+- Bachelor Electronic Information Engineering.
+- First Tier University & Major of Project 211.
+- Selected as an exchange student in the inter-university cooperation agreement between Hohai University and University Lille 1, Joint Bachelor Program.
+- Finished major courses in Hohai University before the 3rd year.
 
 
-
+<!-- 
 ## Awards
 
 `2012`
@@ -49,13 +58,13 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
+ -->
 
-
-## Publications
+<!-- ## Publications -->
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -63,24 +72,21 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
-
+etc. etc. etc. -->
+<!-- 
 ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017 - Now`
+__Senior Java Consultant__, [KPMG](https://en.wikipedia.org/wiki/KPMG)
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2016 - 2017`
+__Senior Java Developer__, [Suning.com Co., Ltd.](https://en.wikipedia.org/wiki/Suning.com)
 
 
 
